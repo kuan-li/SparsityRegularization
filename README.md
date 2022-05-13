@@ -1,6 +1,6 @@
 # Sparsity-Regularized Out-of-distribution Detection
 
-This repository is the implementation of [Improving Energy-based OOD Detection by Sparsity Regularization](https://arxiv.org/abs/2010.03759) by Qichao Chen, Wenjie Jiang, Kuan Li and Yi Wang. This method is a simple yet effective for improve Energy-based OOD Detection. Our code is modified from [energy_ood](https://github.com/wetliu/energy_ood).
+This repository is the implementation of [Improving Energy-based OOD Detection by Sparsity Regularization](https://link.springer.com/chapter/10.1007/978-3-031-05936-0_42) by Qichao Chen, Wenjie Jiang, Kuan Li and Yi Wang. This method is a simple yet effective for improve Energy-based OOD Detection. Our code is modified from [energy_ood](https://github.com/wetliu/energy_ood).
 
 ![image](https://github.com/ChurchChen/SparsityRegularization/blob/main/demo_fig/framework.pdf)
 
