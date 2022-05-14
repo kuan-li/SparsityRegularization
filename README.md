@@ -2,7 +2,7 @@
 
 This repository is the implementation of [Improving Energy-based OOD Detection by Sparsity Regularization](https://link.springer.com/chapter/10.1007/978-3-031-05936-0_42) by Qichao Chen, Wenjie Jiang, Kuan Li and Yi Wang. This method is a simple yet effective for improve Energy-based OOD Detection. Our code is modified from [energy_ood](https://github.com/wetliu/energy_ood).
 
-![image](https://github.com/ChurchChen/SparsityRegularization/blob/main/demo_fig/framework.pdf)
+![image](https://github.com/ChurchChen/SparsityRegularization/blob/main/demo_fig/framework.png)
 
 ## Requirements
 
@@ -74,7 +74,7 @@ Our model achieves the following average performance on 6 OOD datasets:
 
 ### 2. CIFAR-10 (in-distribution) vs SVHN (out-of-distribution) Score Distributions
 
-![image](https://github.com/ChurchChen/SparsityRegularization/blob/main/demo_fig/energy_score_density.pdf)
+![image](https://github.com/ChurchChen/SparsityRegularization/blob/main/demo_fig/energy_score_density.png)
 
 ### 3. Performance among different baselines for [WideResNet](https://arxiv.org/abs/1605.07146)
 CIFAR-10:
@@ -104,7 +104,7 @@ These experiments make use of numerous outlier datasets. Links for less common d
 
 Our **tiny** dataset available at [here](https://drive.google.com/file/d/1zKzzTkbJjODC_y5ZSY8RQAGzzEGqZhuj/view?usp=sharing)
 
-![image](https://github.com/ChurchChen/SparsityRegularization/blob/main/demo_fig/tiny.pdf)
+![image](https://github.com/ChurchChen/SparsityRegularization/blob/main/demo_fig/tiny.png)
 
 ## Citation
 
